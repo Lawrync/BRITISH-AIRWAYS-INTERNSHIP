@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ce663485-7a86-4a9c-92ee-98393a994d20)
+
 # British Airways Internship Project 
 # Introduction
 
