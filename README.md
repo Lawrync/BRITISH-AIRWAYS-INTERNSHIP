@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/ce663485-7a86-4a9c-92ee-98393a994d20)
-# British Airways Internship Project 
+# British Airways Internship Project .Task 1
 # Introduction
 With the advancement of technology, customers today have access to a wide range of information at their fingertips, fundamentally changing the way the purchasing cycle works. In the airline industry, this shift means that being reactive — hoping customers book their holidays as they arrive at the airport — is no longer sufficient. To stay competitive, airlines must be proactive and acquire customers before they even embark on their holidays. Predictive models, powered by high-quality data, provide the key to achieving this goal.
 
